@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+booking:
+  message : "welcome to booking microservice API"
+  contacts:
+    email: "codewithzosh@gmail.com"
+    name: "Aditya - Product Owner"
+  onCallSupport:
+    -(+91) 9876543212
+    -(+91) 7658954321

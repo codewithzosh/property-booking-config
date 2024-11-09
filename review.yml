@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+review:
+  message : "welcome to review microservice profile"
+  contacts:
+    email: "codewithzosh@gmail.com"
+    name: "Ashok - Product Owner"
+  onCallSupport:
+    -(+91) 9876543212
+    -(+91) 7658954321

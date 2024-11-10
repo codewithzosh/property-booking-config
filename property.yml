@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 property:
-  message : "welcome to property microservice profile"
+  message : "welcome to property microservice API"
   contacts:
     email: "codewithzosh@gmail.com"
     name: "Raam - Product Owner"
